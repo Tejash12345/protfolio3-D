@@ -1,0 +1,5 @@
+services:
+  - name: 3dfolio
+    type: web
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
