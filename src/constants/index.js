@@ -194,7 +194,7 @@ const testimonials = [
       "After Rick optimized our website, our traffic increased by 50%. Their expertise also shines in platforms like PurePattry—an advanced food ordering system with real-time tracking and secure payments.",
     name: "Eshwari Mam",
     designation: "M.tech",
-    company: "Engineering Proffeser",
+    company: "Engineering professor",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
   
